@@ -18,3 +18,5 @@ results = customerOrder.collect()
 for result in results :
     
     print("customer ID : {} price {:.2f}".format(result[0],result[1]))
+
+
